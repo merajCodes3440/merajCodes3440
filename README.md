@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meraj Arshad</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Web developer from India</h3>
 
  <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRt_AtbY8xFVNAVsAealDog_ZmNBq8mO8F7w&usqp=CAU">
 
@@ -12,8 +12,6 @@
 - 🔭 I’m currently working on **React js**
 
 - 🌱 I’m currently learning **React**
-
-- 👨‍💻 All of my projects are available at [https://merajcodes3440.github.io/5_nov22_02_personal_portfolio/](https://merajcodes3440.github.io/5_nov22_02_personal_portfolio/)
 
 - 💬 Ask me about **java script React**
 
